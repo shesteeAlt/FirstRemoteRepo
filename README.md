@@ -1,2 +1,3 @@
-# Paragon z warzywniaka
-Kto jest najlepszym commiterem?
+# FirstRemoteRepo
+Kto jest najlepszym committerem?
+User2
